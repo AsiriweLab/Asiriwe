@@ -2,7 +2,7 @@
 title: AAA BBB
 description: Associate Professor of Computer Science at UoA
 url: "" # Your GitHub Pages URL (e.g., https://username.github.io)
-baseurl: "" # Leave empty if hosting at root, or "/repo-name" if project site
+baseurl: "/test_web_2" # Leave empty if hosting at root, or "/repo-name" if project site
 
 # Personal Information
 author:
