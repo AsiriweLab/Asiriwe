@@ -1,24 +1,23 @@
 # Site Settings
-title: AAA BBB
+title: Akila Siriweera
 description: Associate Professor of Computer Science at UoA
 url: "" # Your GitHub Pages URL (e.g., https://username.github.io)
 baseurl: "/Asiriwe" # Leave empty if hosting at root, or "/repo-name" if project site
 
 # Personal Information
 author:
-  name: AAA BBB
+  name: Akila Siriweera
   title: Associate Professor
   department: Department of Computer Science
-  university: UoA
+  university: University of Aizu
   email: your.email@uoa.edu # Update this
   office: "Building X, Room XXX" # Update this
 
 # Research Areas
 research_areas:
-  - Artificial Intelligence & Machine Learning
-  - Cybersecurity
+  - Artificial Intelligence
   - Autonomous Big Data Analytics (AutoBDA)
-  - Web3 & Blockchain Technologies
+  - Cybersecurity & Web3
 
 # Social/Academic Links (uncomment and fill as needed)
 # scholar: https://scholar.google.com/citations?user=XXXXX
