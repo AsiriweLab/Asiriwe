@@ -1,0 +1,33 @@
+# Courses Data File
+# ==================
+# Add your courses here. They will automatically appear on the Teaching page.
+# Set "current: true" for courses you're currently teaching.
+
+- code: "CS 601"
+  name: "Advanced Machine Learning"
+  semester: "Fall 2024"
+  level: "Graduate"
+  description: "Advanced topics in machine learning including deep learning, reinforcement learning, and AutoML techniques."
+  current: true
+  # syllabus: "/assets/syllabi/cs601-fall2024.pdf"
+
+- code: "CS 450"
+  name: "Introduction to Cybersecurity"
+  semester: "Fall 2024"
+  level: "Undergraduate"
+  description: "Fundamentals of computer security including cryptography, network security, and secure system design."
+  current: true
+
+- code: "CS 701"
+  name: "Blockchain and Decentralized Systems"
+  semester: "Spring 2024"
+  level: "Graduate"
+  description: "Theory and practice of blockchain technology, smart contracts, and decentralized applications."
+  current: false
+
+- code: "CS 350"
+  name: "Data Structures and Algorithms"
+  semester: "Spring 2024"
+  level: "Undergraduate"
+  description: "Fundamental data structures and algorithm design techniques."
+  current: false

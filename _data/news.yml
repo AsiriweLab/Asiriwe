@@ -1,0 +1,19 @@
+# News Data File
+# ===============
+# Add news items here. They appear on the home page.
+# Most recent items should be at the top.
+
+- date: "Dec 2024"
+  content: "Welcome to my new academic website!"
+
+- date: "Nov 2024"
+  content: "Paper accepted at [Conference Name] on [Topic]."
+
+- date: "Oct 2024"
+  content: "Gave an invited talk at [Event/University Name]."
+
+- date: "Sep 2024"
+  content: "New research grant awarded from [Funding Agency]."
+
+- date: "Aug 2024"
+  content: "Congratulations to [Student Name] for successfully defending their thesis!"

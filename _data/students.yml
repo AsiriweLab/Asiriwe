@@ -1,0 +1,19 @@
+# Students Data File
+# ===================
+# Add your current students here. They appear on the Research page.
+
+- name: "Student Name"
+  degree: "Ph.D."
+  topic: "Machine Learning for Security Applications"
+  year_started: 2022
+  # website: "https://student-website.com"
+
+- name: "Another Student"
+  degree: "Ph.D."
+  topic: "Blockchain Scalability"
+  year_started: 2023
+
+- name: "MS Student"
+  degree: "M.S."
+  topic: "Autonomous Data Processing"
+  year_started: 2024

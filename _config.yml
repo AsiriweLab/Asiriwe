@@ -1,0 +1,55 @@
+# Site Settings
+title: AAA BBB
+description: Associate Professor of Computer Science at UoA
+url: "" # Your GitHub Pages URL (e.g., https://username.github.io)
+baseurl: "" # Leave empty if hosting at root, or "/repo-name" if project site
+
+# Personal Information
+author:
+  name: AAA BBB
+  title: Associate Professor
+  department: Department of Computer Science
+  university: UoA
+  email: your.email@uoa.edu # Update this
+  office: "Building X, Room XXX" # Update this
+
+# Research Areas
+research_areas:
+  - Artificial Intelligence & Machine Learning
+  - Cybersecurity
+  - Autonomous Big Data Analytics (AutoBDA)
+  - Web3 & Blockchain Technologies
+
+# Social/Academic Links (uncomment and fill as needed)
+# scholar: https://scholar.google.com/citations?user=XXXXX
+# orcid: https://orcid.org/0000-0000-0000-0000
+# github: https://github.com/username
+# linkedin: https://linkedin.com/in/username
+# twitter: https://twitter.com/username
+
+# Build Settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Exclude from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Collections for organized content
+collections:
+  publications:
+    output: false
+  projects:
+    output: false
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

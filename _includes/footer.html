@@ -1,0 +1,16 @@
+<footer class="site-footer">
+    <div class="footer-container">
+        <div class="footer-info">
+            <p><strong>{{ site.author.name }}</strong></p>
+            <p>{{ site.author.title }}, {{ site.author.department }}</p>
+            <p>{{ site.author.university }}</p>
+        </div>
+        <div class="footer-links">
+            {% if site.scholar %}<a href="{{ site.scholar }}" target="_blank" rel="noopener">Google Scholar</a>{% endif %}
+            {% if site.orcid %}<a href="{{ site.orcid }}" target="_blank" rel="noopener">ORCID</a>{% endif %}
+            {% if site.github %}<a href="{{ site.github }}" target="_blank" rel="noopener">GitHub</a>{% endif %}
+            {% if site.linkedin %}<a href="{{ site.linkedin }}" target="_blank" rel="noopener">LinkedIn</a>{% endif %}
+        </div>
+        <p class="copyright">&copy; {{ 'now' | date: "%Y" }} {{ site.author.name }}. All rights reserved.</p>
+    </div>
+</footer>

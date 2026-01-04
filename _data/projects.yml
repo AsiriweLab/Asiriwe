@@ -1,0 +1,18 @@
+# Research Projects Data File
+# ============================
+# Add your research projects here. They appear on the Research page.
+
+- title: "AI-Driven Cybersecurity Defense Systems"
+  status: "Ongoing"
+  funding: "Funding Agency Name"
+  description: "Developing machine learning models that can automatically detect and respond to cyber threats in real-time."
+
+- title: "Autonomous Big Data Analytics Platform"
+  status: "Ongoing"
+  funding: "Funding Agency Name"
+  description: "Building self-optimizing data analytics pipelines that require minimal human intervention."
+
+- title: "Secure Web3 Infrastructure"
+  status: "Ongoing"
+  funding: "Industry Partner"
+  description: "Researching vulnerabilities in smart contracts and developing automated verification tools."

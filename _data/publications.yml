@@ -1,0 +1,36 @@
+# Publications Data File
+# ======================
+# Add your publications here. They will automatically appear on the Publications page.
+# Publications are grouped by year automatically.
+#
+# Required fields: title, authors, venue, year
+# Optional fields: pdf, doi, code, slides
+
+- title: "Example: A Machine Learning Approach to Automated Security Analysis"
+  authors: "AAA BBB, Co-Author Name, Another Author"
+  venue: "IEEE Symposium on Security and Privacy (S&P)"
+  year: 2024
+  # pdf: "/assets/papers/example2024.pdf"
+  # doi: "10.1109/SP.2024.XXXXX"
+  # code: "https://github.com/username/repo"
+
+- title: "Example: Decentralized Identity Management Using Blockchain"
+  authors: "Co-Author Name, AAA BBB"
+  venue: "ACM Conference on Computer and Communications Security (CCS)"
+  year: 2024
+  # doi: "10.1145/XXXXXXX.XXXXXXX"
+
+- title: "Example: AutoML for Big Data Analytics in Distributed Systems"
+  authors: "AAA BBB, Student Name, Collaborator Name"
+  venue: "International Conference on Machine Learning (ICML)"
+  year: 2023
+
+- title: "Example: Privacy-Preserving Deep Learning in Healthcare"
+  authors: "Student Name, AAA BBB"
+  venue: "Nature Machine Intelligence"
+  year: 2023
+
+- title: "Example: Smart Contract Vulnerability Detection Using Graph Neural Networks"
+  authors: "AAA BBB, Co-Author Name"
+  venue: "USENIX Security Symposium"
+  year: 2022
